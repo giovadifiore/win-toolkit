@@ -1,2 +1,2 @@
 # win-toolkit
-A repository containing a base software toolkit box suitable for Windows systems.
+A repository containing a base software toolkit for administrating Windows systems
